@@ -42,7 +42,7 @@ setuptools.setup(
     install_requires=[
     'docopt',
     'chardet',
-    'dbus-python',
+    #'dbus-python',
     'docopt',
     'requests',
     'setproctitle',
